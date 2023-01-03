@@ -1,5 +1,5 @@
-df <-read.csv(file = 'C:/Users/ironm/PycharmProjects/AI-Monster/2022.csv')
-df<- df[sample(nrow(df)),]
+df <-read.csv(file ='C:/Users/ironm/Documents/COMPSCI 3/Dissertation/AI-Monster/2022.csv')
+
 
 df<- na.omit(df)
 

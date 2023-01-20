@@ -1,3 +1,6 @@
+
+
+
 set.seed(69)
 ##Have to implement a 3 layer neural network:
 ## 1st layer will be the input layer (two neurons) -> means two features of two columns
